@@ -4,3 +4,4 @@ A test-repository for real life sync tests. Nothing of value here.
   - Few commits
   - Few branches
   - Few tags
+  - Few PRs
