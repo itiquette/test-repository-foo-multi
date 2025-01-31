@@ -1,5 +1,6 @@
-a# anotherorgtestrepo
-a random testrepo forsafdsaf testing github org features in practice
-asdfasdf
-asssfdasdfasfdasdf
-assfsafasdfsfdsaf
+A test-repository for real life sync tests. Nothing of value here.
+* Characteristic:
+* - Public
+  - Few commits
+  - Few branches
+  - Few tags
